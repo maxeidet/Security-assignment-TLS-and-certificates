@@ -1,0 +1,16 @@
+{
+  "name": "crtsh_checker",
+  "version": "1.0.0",
+  "main": "crtsh_checker.js",
+  "type": "module",
+  "scripts": {
+    "start": "node crtsh_checker.js"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
